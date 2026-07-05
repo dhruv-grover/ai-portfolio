@@ -18,6 +18,10 @@
 5. Installed Git for Windows and configured Git with my username and email.
 6. Cloned the GitHub repository to my local machine and opened it in Cursor.
 7. Created this `README.md` to document the setup process.
+8. Staged and committed the completed `README.md` using a descriptive Git commit message.
+9. Authenticated with GitHub, pushed the commit to the remote GitHub repository and verified that the changes were published successfully.
+
+
 
 ### Issues Encountered and Solutions
 
