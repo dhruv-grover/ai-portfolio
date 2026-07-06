@@ -28,3 +28,18 @@
 **Git was not installed:** Cursor could not clone the GitHub repository because Git was not installed on my system.
 
 **Solution:** Installed Git for Windows, configured Git with my username and email, then successfully cloned the repository.
+
+---
+
+
+
+## Task 2: Research Project
+
+
+
+### Topic: Cold Outreach Pipeline for B2B SaaS
+
+This task focuses on researching leading practitioners in **B2B SaaS cold outreach** by collecting, organising and documenting their LinkedIn posts, YouTube transcripts and other relevant materials into a structured research repository.
+
+> Progress: In Progress
+
