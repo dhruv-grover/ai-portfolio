@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# Cursor
+.agents/
+
+# Generated metadata
+research/scripts/data/*.json
