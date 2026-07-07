@@ -19,6 +19,8 @@ Successful outbound is an organizational commitment, not just an SDR initiative.
 - Continuous coaching
 - Activity planning using sales math
 
+
+
 ## Key Takeaways
 
 - Outbound transformation requires leadership.
