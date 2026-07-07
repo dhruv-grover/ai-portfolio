@@ -1,0 +1,75 @@
+# How Many Meetings Can I Book Off 6,474 Personalized Cold Emails?
+
+**Expert:** 30 Minutes to President’s Club
+
+**Rank:** 11
+
+**Metadata Score:** 68
+
+**Published:** 2026-02-24
+
+**Duration:** 00:13:32
+
+**Views:** 2,431
+
+**Likes:** 65
+
+**Video URL:** https://www.youtube.com/watch?v=xz1Aw4y3CdI
+
+---
+
+# Transcript
+
+How many personalized emails are we about to send with this campaign? >> 6,474. >> Nonsense. Let's do it. >> So, how do we get here? Well, I used to actually be a VP of sales, and often times our [music] best marketing ideas would come from the sales team. >> Nick, I I need more leads. >> Sorry, McKenna. I'm out of ideas. >> Arman, we need leads. >> Jesus Christ. So, here's the deal. We put out sales courses on everything from cold calling to discovery to negotiation. And sales teams will literally go and buy 50 to 100 of those licenses to train their teams off of our content.
+
+And so naturally, a lot of the people who are most likely to buy are the people who already consume and follow our content. The problem is that's a lot of people. I have 80,000 followers on LinkedIn. Nick has 84,000 followers on LinkedIn. And then our mailing list has 60,000 followers. And so that brings us to a total initial target list of 224,000 contacts. And so I thought, what if we launch literally the biggest personalized email campaign that we have ever launched before? And so I thought of my friends at Clay who helped teams literally run masscale personalized outreach campaigns in the thousands.
+
+And so I called my friend Verun, who's one of the founders of Clay. >> Hey Armon, what's up? >> Yeah. Yeah, of course. Let's do it. Uh, just talk to Everett. He'll make it happen. Great. See you dude. >> Have you met the man who built a clay table in a helicopter? All right, guys. I'm going to build the first blade table in a helicopter. But before I do, let me tell you how I got here. >> All right, so there are five steps to actually get these 224,000 people into some sort of intelligent outreach campaign.
+
+Step number one is we need to pull the list of my followers, Nick's followers, and the company pages followers and everyone on our mailing list. Step two is we don't want to reach out to everyone on our list. We only want to reach out to US-based sales leaders who have big teams that can actually buy deals with us. Step three is then we want to take the most engaged leads. Step four, we then want to write personalized emails to every single one of them. And then lastly, step five is we want to load all of those emails into a sequence and actually reach out to these people.
+
+All right, so let's start with step one. The easy list to give you is I can just take everyone on our mailing list, all 60,000 people on our list, and I just sent it to you. But that wasn't enough because we have people who aren't on our mailing list. So then I took my followers and connections on LinkedIn. We also exported Nyx. That brings us to a full list of 224,000 and that gets us the list that we have ultimately that we plugged into Clay. Now we need to actually go inside of this clay table for step two, which is narrowing it down to our ICP.
+
+We took your entire list. We uploaded it, right? Everything you see here in the yellow column header is basically going to be part of the input data that you've [music] given us. And we have first name, we have last name, we have company name, we have job title, city, email. We need to figure out what is a company domain cuz we're going to segment this list into how many of them are actually company emails and how many of them are personal emails. So with this action, we can identify from the domain level if it's a company email.
+
+That's this checkbox right here. The next step is extracting the company domain. So we're going to actually add that into your data set. So you asked, hey, based on this person's job title, you know, are they a manager? Are they a VP? And so we can do that pretty easily right here using this custom formula which I used with natural language. And you said you wanted to only find people who were at least sales managers with 10 people on their team. >> That's right. So it's pretty easy to do that. So all I did here is I created a checkbox which says hey if the job title classification contains manager, director, VP or seauite only mark this box as true.
+
+So boom, that's our second filter. So within Clay, we actually have an action called find employee headcount by criteria. And the way that this works is you essentially define a company domain. And now I can choose which job title keywords that I want to filter for. So I've included things like sales, SDR, BDR, account, rep. And based on that, we can actually pull out the number of salespeople on their team. >> And now you said you wanted to limit this search to how many sales people? >> 10 plus sales reps.
+
+>> 10 plus. So, we created this formula right here called sales team 10 plus. And I just simply defined it as if the sales team is greater than or equal to 10, mark this box as true. There we go. All right. So, now we've narrowed down that list of 224,000 people on our list. We've dduped a lot of the followers as well between my followers, Nick's followers, and the company pages newsletter list. Then we drilled down to the managers on that list and that was a list of 4,333 dduped contacts that were sales managers in the US.
+
+From there, we drilled that down even further and we said that the managers who had at least 10 plus reps on their team were 2,894. So, that completes step two is our super honed ICP here of US-based sales leaders with 10 plus people on their team is 2,894 people that we're going to reach out to. So, the way that we want to personalize these emails >> is number one, I want to see what content this person has consumed. >> That's right. >> And then number two, I want to know if for example, a VP of sales has three sales reps on their team who've consumed content from us.
+
+And the reason for that is I can then mention the names of those three reps in the email to be like, you've consumed content, your team has consumed content, you should probably work with us. >> That's right. You actually connected your HubSpot CRM inside of this. And you asked for something very specific. You said, hey, can you figure out how many associated contacts are associated with this domain? >> So, we actually were able to look up all of your contacts on the domain level and figure out how many people are in your CRM that have consumed 30 MPC content inside of your CRM.
+
+You actually wanted us to figure out what was the most recent conversion event. >> Yeah. >> That this person took. So you mentioned in the personalized message, you actually want to call out the people's names in the email. >> Yeah. >> So we actually looked into the CRM. We found all 86 of those reps that have actually consumed content associated with the domain. >> Mhm. >> And I pulled out all their names. But you said, "Hey, Chris, you want me to only figure out like three?" That's right. So, we created a little formula here that says, "Hey, only pull out three names." And that was the next step.
+
+>> We took that list of 2,894 ICP sales leaders. And we said, which ones have at least three plus reps on their team who've consumed 30 MPC content goes from 2,894 to 2,158. So, let's take a step back. The subject line here is going to be, in this case, Matt plus Prrenav plus Coral. They're going to see that email. They're going to open it up. >> From there, we've created a prompt and then we've plugged it inside of Clay. And what it says is three things. Number one, it says, "This is the product we sell." So, we plugged all of our course landing pages into the Clay prompt.
+
+>> Number two, we said, "This is how I want you to personalize the email. I want you to personalize the email based on the content the leaders consumed and the three reps who've consumed content." And then number three, we gave it multiple 30MPPC newsletters and our cold email framework. So the basic cold email framework we're going to use is it's going to lead with the personalization trigger. It's going to say something like, "Hey, Matt, Prrenav, and Coral all consumed content on your team and I notice you consumed this piece of content." That's section one.
+
+Section two is we need to turn that personalization into a problem. >> And so the problem is going to be related to the content that the leader consumed. From there, we need to introduce a one-s sentence solution. Y, which is how we solve that problem in one sentence. And then we need to end with a CTA, which is something like, "Are you open to seeing what a training program example would look like for you?" The second email is a very simple one-s sentence bump email that basically just says like, "Any thoughts on that previous email?" And then the third email is a very simple breakup that says, "Hey, I'm going to assume this isn't a fit.
+
+I'm going to leave behind a resource for you. I plan on reaching back out in like 90 days. Would you mind giving me the thumbs up or the thumbs down just so I know if I should even do that? >> So, we have everything inside this table, right? We went from this massive list to this very targeted list. The next step is to actually add it to a campaign. >> Mhm. >> So, using sequencer, I push all of these leads to the sequencer tool. We have the subject line right there. >> And then we have a preview of what that email looks like.
+
+And then you said you want to do the follow-up. So, 2 days later, >> yep, >> we're going to [music] send that templated email. And then two days after that, we're gonna send the breakup email. >> There's one problem. >> What's that? >> What happens if you send 6,000 emails all at once? >> Oh, that's bad. You'll probably get blocked. >> So, fortunately, we knew that this was going to happen. And so, prior to this, what we did is we actually warmed up these email domains. So, Chris is going to help us send not from just 30mppc.com, but we've created 20 separate email domains.
+
+Step two is we've spent two weeks warming up those domains. So there are different email warming softwares, including one inside of Clay, that allow you to send 25 to 50 emails per day, slowly ramping up so that Gmail and Outlook start to recognize like, oh, this is like an inbox that is sending and receiving emails. So that's two is we warmed up the domains. That's right. And then step three, as we send, we're not going to click send on all >> 6,000 at once. We're going to spread out these sends because these are like 2 to 3 week old domains.
+
+I would actually love to send half of them at 25 emails per day and then half of them at 50 emails. >> Sure. Update send limit. We'll change this 20 to 50. Probably get a little warning here. >> It's warning. >> We're Mavericks. >> We We'll play with the game. We're wearing the leather jacket today. >> All right. [laughter] All right. That went through. >> It totally went through. >> Yeah. [laughter] Okay. >> All right. Ready? >> Are you ready? Hit send. >> Three, two, one. Launch campaign. Confirm credits.
+
+>> Boom. >> Okay. Now what? Well, now what? I guess we have to wait two [laughter] weeks for this to finish. All right. We'll be back in 2 weeks. >> Three weeks later. >> Nick, you're never going to believe this. >> You got you got some meetings. >> Well, kind of. But a quick disclaimer. [music] Some goon in the comments is going to be like, "Uhoh, 30 MPC ran a crappy email campaign. They're dead. Their business is crap." >> The first campaign is what gives you market data so you can get the second, third, and fourth campaign perfect.
+
+We reached out to 195 leads. We sent 5,224 emails because a sequence will stop if you get a bounce or if someone replies. And then we got 57 replies, which is a 1.1% reply rate. Now, that's actually good. That's within benchmark. Where it got a little bit tougher is if you break it down into positive replies versus negative replies. So, first of all, we got five replies that were just nonICP. So, people who are like a sales director who didn't actually manage people. That's fine. Put those aside.
+
+We got 22% positive replies or 13 of the replies were positive. Now, technically that is within the range. Most cold email campaigns get 20 to 30% positive replies, but the reality is this was like a pretty warm 30 MPC list. And I would have loved to see this a little bit closer to 40 to 50%. And I'll explain why in just a second. If you look at the negative replies, we got 40 negative replies, which is about 70% of the total number of replies we got. And so, a couple things that we actually saw inside of Clay that told us what went off in this campaign that we can fix in the next one.
+
+So, the first is if you remember, we actually cited the names of reps who were working at the company. 40% of our objections were due to data quality issues where the rep actually wasn't working at the company anymore because they might have signed up for our list a year ago and a lot of sales people leave. So learning number one is probably would have cleaned up my data a little bit more. The final 40% of replies were people who just said I'm not interested and honestly that's kind of just okay.
+
+The remaining 20% of replies came from timing issues. So, we actually recorded this video right before the Christmas break, so like 2 weeks before Christmas. And because we were spacing out the sends, some of the sends were like right before Christmas or like between December 26th and 31st. And like the holiday season is just like an awful time to be reaching out to people. So, we got like a million out of office notifications. And honestly, our reply rate was probably way lower than if we had sent in the right time.
+
+Honestly, the only last thing that I would change as part of this campaign is like I wish we started on a slightly smaller sample size where we did sends to like 100 of the contacts and then for example we would expand to the remaining 1,8005 that were left because I think we would have found some of these data issues early on and I think we also would have seen that like the holidays were impacting our reply rates pretty early on. But folks, all things considered, I would say that it was like a solid like B minus in terms of the results on the campaign.
+
+Frankly, we learned a lot and now we can roll these learnings into the next one. And I would bet we can probably double the number of positive replies we get on the next campaign. Down below, if you want us to run another one of these, let me know. Or if there are other crazy email campaign ideas that you have, please let me know because I know the Clay team is down to do another. Again, like, subscribe, and hit the bell. And also, the Clay team was nice enough to say, "Hey, we're going to give you a clayt if you want to try running your own email campaign." And also, I included a link to the chat GBT prompt that I created if you want to have your LLM create a similar cold email for you.
+
+All right, y'all.

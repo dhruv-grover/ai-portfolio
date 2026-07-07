@@ -15,9 +15,8 @@ This document lists the experts selected for the research on **Cold outreach pip
 
 **Dates of Collected Content**
 
-- LinkedIn posts:
-- YouTube Videos:
-- Other sources:
+- LinkedIn posts: 2026-01-01 to 2026-07-06  *(yyyy/mm/dd)*
+- YouTube Videos: 2026-01-01 to 2026-07-06  *(yyyy/mm/dd)*
 
 **Annotation**
 Jason Bay specializes in outbound prospecting and SDR workflows for B2B SaaS organizations. The collected materials focus on cold email strategy, prospecting and pipeline generation.
