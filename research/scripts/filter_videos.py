@@ -117,7 +117,10 @@ def filter_and_score_videos(videos: list[dict[str, Any]]) -> tuple[list[dict[str
 
     ranked_videos = sorted(scored_videos, key=ranking_key, reverse=True)
     selected_videos = ranked_videos[:TOP_VIDEOS]
-    output_videos = [format_output_video(video) for video in selected_videos]
+    output_videos = [
+        format_output_video(video, rank)
+        for rank, video in enumerate(selected_videos, start=1)
+    ]
 
     return output_videos, FilterSummary(
         videos_loaded=len(videos),
@@ -249,11 +252,13 @@ def parse_published_at(value: str) -> datetime:
         return datetime.min.replace(tzinfo=timezone.utc)
 
 
-def format_output_video(video: dict[str, Any]) -> dict[str, Any]:
+def format_output_video(video: dict[str, Any], rank: int) -> dict[str, Any]:
     """Return the compact output structure used by downstream scripts."""
     return {
+        "rank": rank,
         "video_id": video.get("video_id", ""),
         "title": video.get("title", ""),
+        "channel_name": video.get("channel_name", ""),
         "published_at": video.get("published_at", ""),
         "duration": video.get("duration", ""),
         "video_url": video.get("video_url", ""),
