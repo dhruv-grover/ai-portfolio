@@ -76,3 +76,23 @@ Morgan J. Ingram specializes in LinkedIn social selling, outbound prospecting, S
 **Annotation**
 
 Connor Murray focuses on modern outbound sales for B2B SaaS, with an emphasis on cold email, LinkedIn prospecting, account research, and AI-assisted prospecting workflows. His content demonstrates practical outbound playbooks, messaging frameworks, personalization techniques, and repeatable systems for generating qualified pipeline and booking meetings with enterprise buyers.
+
+## 5. John Barrows
+
+**Current Role:** Founder & CEO, JB Sales
+
+**Sources**
+
+- LinkedIn: [John Barrows](https://www.linkedin.com/in/johnbarrows/)
+- YouTube: [John Barrows](https://www.youtube.com/@JohnMBarrows)
+- Website: [JB Sales](https://jbarrows.com/)
+- Podcast: [Make It Happen Mondays](https://make-it-happen-mondays.captivate.fm/)
+
+**Dates of Collected Content**
+
+- LinkedIn posts: 2025-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+- YouTube Videos: 2025-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+
+**Annotation**
+
+John Barrows specializes in enterprise sales execution and modern prospecting for complex B2B buying environments. His content emphasizes practical sales methodologies, objection handling, account planning, discovery, and adapting outreach strategies to different buyer personas. The collected materials provide actionable frameworks for improving sales conversations, increasing conversion rates, and building predictable enterprise pipeline.

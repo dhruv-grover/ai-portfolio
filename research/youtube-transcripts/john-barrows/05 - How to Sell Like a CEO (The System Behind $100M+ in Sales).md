@@ -1,0 +1,77 @@
+# How to Sell Like a CEO (The System Behind $100M+ in Sales)
+
+**Expert:** John Barrows
+
+**Rank:** 5
+
+**Metadata Score:** 75
+
+**Published:** 2025-10-28
+
+**Duration:** 00:13:47
+
+**Views:** 209
+
+**Likes:** 8
+
+**Video URL:** https://www.youtube.com/watch?v=d5UnXlfS3ok
+
+---
+
+# Transcript
+
+Most reps I know right now are absolutely grinding. They're chasing quota, living quarter to quarter, hoping something finally clicks. But a small group, they're not just hitting six figures. They're doing it without burning out. And they're not working harder, they're working with a system. In this video, I'll show you how average reps are becoming consistent top performers and how that shift isn't just about the numbers. It's about building a foundation for the career and the lifestyle that you want to live.
+
+Look, I've been doing this for over 30 years. I've trained sales teams at some of the fastest growing companies in the world like Salesforce.com, LinkedIn, Amazon, Google, Dropbox, Box, you name it. I've been featured in Forbes, Inc. Magazine, the Harvard Business Review. But what matters most to me now is helping individual reps like you take control of your career and use sales as a launchpad. Whether that means leveling up inside your current company, finding a better job somewhere else, or building something on your own.
+
+Take Ryan for example. The month after going through my negotiation training, he closed $58,000 on a $35,000 quota. But more important than the number, he now runs every deal through a system that works so he can do that consistently. Then there's Jason. He used my outbound framework to break into new markets starting with Silicon Valley. He 1.5xed his revenue and commissions in year 1 and then doubled them the next year. The momentum was so strong that execs from Munich came over to find out what he was doing.
+
+That's what happens when you stop winging it and start executing with intention. Now, before I walk you through that system, let me ask you something that most sales trainers completely miss. Where's all this taken you? Not just your next quota or your next title. 5 years out from now, what kind of lifestyle do you want to be living? Because if you don't have a vision for where you want to go, then none of this sticks. The tactics become noise. You chase someone else's goals and ultimately you burn out.
+
+That's why everything I teach is grounded in both the how and the why. You'll learn how to prospect the right way, build your brand, uncover urgency, negotiate objectively, and close without feeling gross about it. But the real power is tying it all back to you, your values, your goals, your next chapter. Sales isn't just about hitting your number. It's about building the skills, systems, and mindset that give you options. So, yes, this is about performance and results, but it's also about direction because you deserve to know where you're headed and how to get there on your terms.
+
+Now, I know there is no shortage of sales trainers out there claiming that their system is the best, but here's the difference. Most of them had one good run with one playbook, and now that's all they teach. And most of them aren't even selling anymore. So, they don't even know if that playbook or those techniques even work anymore. I've sold across every kind of market, products, services, SMB, enterprise. I started at DeWalt, got humbled at Xerox, and built multiple companies from scratch to multi-millions, and even sold my first startup to Staples.
+
+But I'm not just telling war stories. I'm still in it. I still prospect every day, run all my own discovery calls, negotiate all my own contracts, and close new business every week. So, when I teach something, it's not theory. It's what's working right now. And sure, I'll help you hit your number, but that's the floor, not the goal. Because here's what most people miss. Your sales career is training for something bigger. Every framework you master, every conversation you lead, that's equity. That's leverage.
+
+Whether you want to lead a team, start your own thing, or just stop living deal, this system helps you build real freedom, not with scripts, with skills. Let's talk a little bit about how most reps are trying to hit their number these days and why it's not working. First is the spray and prey approach. You crank out calls, fire off emails, and focus all your efforts on doing more activity. And yeah, you'll book some meetings, but usually with the wrong people, and burnout shows up fast with this approach.
+
+And when it does, you've got nothing to fall back on. If you stick with this, you'll maybe hit $55 to $75,000 a year, but it won't last. And none of those skills transfer you to your next job, let alone the next chapter of your career. Now, the next approach is similar to the spray and prey, but it's focused on mass sequencing. This is where you load up a list of accounts into one of those sequencing tools, fire off hundreds of cadences, and hope something sticks. Since this approach is more about a multi-touch contact strategy compared to the spray and prey approach, you might move up a notch and make maybe $60 to $80,000 a year, but you're a commodity.
+
+You're competing with hundreds of other reps sending the same templates. And AI, by the way, does it way better and faster now than any human ever could. Then there's networking and referrals. Look, warm intros are great until they dry up. And when your rolodex runs out, so does your pipeline. That usually caps you around 65 to 85 grand. And that's if your network's actually good. Then there's the build your brand and wait for them to come to you approach. Now look, I'm a huge believer in building your personal brand and even teach it as part of my training.
+
+But it's not a short-term lead engine. It's about playing the long game. And most reps can't afford to sit back and wait for inbound. With this approach, you'll miss your number altogether in the short term and not even be able to reap the long-term benefits of building your brand. Well, at least not at your current role. Even traditional sales methodologies like Sandler, Challenge, or Spin. Sure, they work, but they take years to master, and most of them only have components of them that are good.
+
+But many of their teachings are outdated and not relevant in today's selling environment. You might hit 75 to 110K, but you'll always be adjusting if you stick with only one of them. So, you'll see your results continue to decline. Here's the problem. None of these approaches stand on their own. Some are too short-term. Some take too long to master. Some rely on luck. And none of them give you full control over your pipeline, your process, or your path forward. That's why reps stay stuck because they're piecing things together instead of running a complete system that works end to end.
+
+So, what does work? A system. one that gives you full control over how you create pipeline, run your sales process, and close with confidence without burning out or guessing what to do next. Here's what it looks like. First, datadriven prospecting. No more hoping, no more fluff. You'll know exactly how many calls, emails, and LinkedIn touches it takes to book qualified meetings. You'll build a pipeline you can predict, scale, and control while improving your business acumen and building your personal brand along the way.
+
+Second, messaging that drives urgency. You'll stop sounding like every other rep. You'll learn how to open strong, ask better questions, and connect what you're selling to what actually matters to the buyer. That's how you create urgency without manipulation. Next is qualification that protects your time. You'll stop chasing bad deals. You'll know exactly how to qualify hard and early, so you focus on the real opportunities, not may that go nowhere. Then there's discovery that uncovers business impact.
+
+You'll stop asking generic pain questions and learn how to uncover real business problems buyers will pay to fix. That means bigger deals, shorter sales cycles, and less discounting. And finally, deal management that gives you control. You'll run your pipeline like a pro. No more ghosting, no more guessing. You'll know where every deal stands, what's missing, and how to move it forward. This is the system I teach inside my core programs, filling the funnel and driving a close. It's not a bunch of one-off tactics.
+
+It's a full stack framework designed to help you perform now and build towards whatever comes next. So, for the rest of this video, I'm going to walk you through the exact process I teach inside the filling the funnel program. Now, this is the prospecting engine top reps are using to build consistent qualified pipeline without burning out. This is just one part of the full system I teach in my membership and coaching programs. I also go deep into discovery, negotiations, and closing. But most reps don't struggle with closing.
+
+As a matter of fact, they struggle with starting and that's why this piece matters most. So, here's how the engine works. Step one is to know your sales equation. Most reps only focused on outbound, but there's also inbound referrals, partnerships, and a lot of other channels. When you know how many activities lead to how many meetings and how many meetings lead to closed deals, you're no longer guessing, you're driving. Step two is dialing into your ideal customer profile and tearing out your accounts.
+
+If you're not targeting the right accounts, everything else breaks. This narrows your focus and immediately increases your win rates. It's also the foundation for time management. Now, step three is identifying your trigger events. You need to have reasons to reach out to your prospects that are both timely and relevant. New leadership, funding, product launches, earnings reports, interview quotes, and social posts are only a few examples. Timing creates relevance, and relevance drives responses.
+
+Step four is understanding your personas. Look, CFOs in the retail industry have different priorities than CFOs in the financial services industry. A CFO in retail has different priorities this year than they did last year. Your message needs to be relevant and match what they value right now or it gets ignored. As a matter of fact, to give you some immediate value, you can check out the executive priority report we do every single year that breaks down the top priorities of the top executives in the top industries.
+
+You can use this report to learn how to speak the language of your target personas today. Check out the link in the descriptions below. Now, step five is building your sales ready messaging with my messaging equation. Forget templates. You'll learn how to craft brief, relevant messages that tie different components of your solution to what matters most for that ICP, that persona at that moment. Now, step six is applying the right structure. Whether it's email, phone, video, or LinkedIn, you'll learn proven frameworks, not scripts, to deliver and test every aspect of your message to see what works.
+
+Step seven is about building your contact strategy. Effective prospecting isn't about using one channel over the other. It's about using them all to tell a story. You'll map out your outreach across channels with clear timeline so no lead slips through the cracks and follow-up becomes automatic without being automated. Step eight is building the habit and routine to stay consistent while building your brand along the way. The challenge with any process is building it into your routine so you can do it consistently.
+
+You'll learn how to effectively prospect, drive results, improve your business acumen, and build your personal brand in less than an hour a day. That's the engine. And when reps follow it, they don't just book more meetings. They build a repeatable process that they own. One they can scale. one that compounds on itself. That's how the best reps are separating themselves. Not by doing more, but by doing it right. So, you've seen the system, you've heard the steps, but what matters most is what happens when real people put this into practice.
+
+You heard about Jason and Ryan earlier, but let's take a look at a few more. Here's another rep, also named Ryan. He used the deal closing tactics we worked on together to close the biggest deal of his career, a $100,000 contract. He aligned it with the customer's internal timeline, guided urgency with clear next steps, and got the deal done before months end. That's what happens when you stop winging it and start executing with intention. Now, Brian started with zero meetings in his first month, and after going through the training, he's now consistently hitting over 110% of quota every single month and says he's never been more energized about selling.
+
+Lauren came in with no sales background and since joining the program, she's exceeded her quota by 300% and has already been promoted twice in just 9 months. And then there's Alex. He was completely burnt out, grinding through 80 calls a day, barely booking one meeting, and on the edge of a breakdown. After just one session, he cut his call volume by more than half, doubled his results, and said the training restored both his energy and his performance. These aren't highlight reels. They're reps who made the decision to stop guessing and start following a system.
+
+The results aren't just better numbers. It's more confidence, more time, and more control over what's next. That's the shift. When you have a system, you don't just sell more. You get your time back. You build momentum. You create options. But here's the thing. The system matters now more than ever. The way people buy has changed. The way companies evaluate vendors has changed. But most reps are still selling like it was 2020. Look, buyers are harder to reach, budgets are tighter, and everyone's inbox is flooded with templated sequences, half written by AI, and the other half ignored completely.
+
+Activity alone doesn't cut it anymore. Product knowledge doesn't move the needle, and inbound isn't going to save you. If you don't have a system that adapts to the market, you'll keep getting stuck, or worse, you'll get replaced. The reps who are winning today aren't grinding harder. They're executing smarter. They're not chasing tactics. They're building careers. Because the people who treat sales like entrepreneurship training, they're the ones who win, no matter what happens next. That's why I built this training to give reps like you the exact tools to adapt, execute, and take control of your careers.
+
+Everything I've shared so far, that's the overview. What I break down next are the real mechanics, the actual framework, sequences, questions, and strategies top performers are using right now to drive consistent results. You'll get my full outbound prospecting framework, the email templates that actually get replies, the discovery questions that surface real business pain, the qualification criteria that keeps you focused on deals that close, and the vision mapping process that connects your day-to-day to where you want to be 5 years from now.
+
+This isn't about theory. It's about implementation. Because when these parts work together, sales becomes predictable, repeatable, and scalable. And more than anything, it becomes yours. If this resonates with you and you're ready to build something that lasts, the link is in the description. Let's get to work.
