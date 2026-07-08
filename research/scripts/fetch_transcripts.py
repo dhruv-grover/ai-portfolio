@@ -13,6 +13,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+import requests
 from requests.exceptions import RequestException
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import (
@@ -42,6 +43,7 @@ GENERIC_PROXY_ENV_VARS = (
 )
 WEBSHARE_USERNAME_ENV_VAR = "YOUTUBE_TRANSCRIPT_WEBSHARE_USERNAME"
 WEBSHARE_PASSWORD_ENV_VAR = "YOUTUBE_TRANSCRIPT_WEBSHARE_PASSWORD"
+SUPADATA_API_KEY_ENV_VAR = "SUPADATA_API_KEY"
 
 
 class TranscriptDownloadError(Exception):
@@ -171,13 +173,11 @@ def download_transcripts(videos: list[dict[str, Any]], output_dir: Path) -> list
             results.append(DownloadResult(video=video, downloaded=True, message="Transcript downloaded", output_path=output_path))
         except (TranscriptsDisabled, NoTranscriptFound, VideoUnavailable) as exc:
             progress(f"✗ [{rank:02d}] {title}")
-            progress("    Transcript unavailable")
+            progress(f"    Transcript unavailable ({exc.__class__.__name__})")
             results.append(DownloadResult(video=video, downloaded=False, message=str(exc)))
         except Exception as exc:
             progress(f"✗ [{rank:02d}] {title}")
-            progress("    Transcript unavailable")
-            if is_youtube_block_error(exc):
-                progress("    YouTube is blocking this IP. Set a transcript proxy in .env and rerun.")
+            progress(f"    Error: {exc}")
             results.append(DownloadResult(video=video, downloaded=False, message=f"Unexpected error: {exc}"))
 
         progress("")
@@ -243,19 +243,118 @@ def is_youtube_block_error(exc: Exception) -> bool:
 
 
 def fetch_transcript_text(transcript_api: YouTubeTranscriptApi, video_id: str) -> str:
-    """Fetch the best English transcript, preferring manual tracks over generated tracks."""
+    """Fetch the transcript via Supadata API, mapping errors back to original types."""
     if not video_id:
         raise NoTranscriptFound(video_id, TRANSCRIPT_LANGUAGES, [])
 
-    transcript_list = transcript_api.list(video_id)
+    api_key = os.getenv(SUPADATA_API_KEY_ENV_VAR)
+    if not api_key:
+        raise TranscriptDownloadError(
+            f"{SUPADATA_API_KEY_ENV_VAR} environment variable is missing in .env file."
+        )
+
+    endpoint = "https://api.supadata.ai/v1/transcript"
+    params = {
+        "url": f"https://www.youtube.com/watch?v={video_id}",
+        "lang": "en",
+        "mode": "auto"
+    }
+    headers = {
+        "x-api-key": api_key
+    }
 
     try:
-        transcript = transcript_list.find_manually_created_transcript(TRANSCRIPT_LANGUAGES)
-    except NoTranscriptFound:
-        transcript = transcript_list.find_generated_transcript(TRANSCRIPT_LANGUAGES)
+        response = requests.get(endpoint, headers=headers, params=params, timeout=30)
+        
+        # 1. Parse JSON if possible to catch specific Supadata error payloads
+        try:
+            data = response.json()
+        except Exception:
+            data = {}
 
-    fetched_transcript = transcript.fetch(preserve_formatting=False)
-    return format_transcript_text([snippet.text for snippet in fetched_transcript])
+        # 2. Check for explicit error responses returned by Supadata in JSON
+        if "error" in data:
+            error_code = data.get("error")
+            error_msg = data.get("message", "Unknown error")
+            details = data.get("details", "")
+            
+            if error_code == "transcript-unavailable":
+                raise NoTranscriptFound(video_id, TRANSCRIPT_LANGUAGES, [])
+            elif error_code == "not-found":
+                raise VideoUnavailable(video_id)
+            elif error_code in ("unauthorized", "forbidden"):
+                raise TranscriptDownloadError(f"Supadata Auth Error: {error_msg} ({details})")
+            elif error_code == "limit-exceeded":
+                raise TranscriptDownloadError(f"Supadata Limit Exceeded: {error_msg} ({details})")
+            else:
+                raise TranscriptDownloadError(f"Supadata Error ({error_code}): {error_msg} ({details})")
+
+        # 3. Handle non-2xx status codes (e.g. rate limiting or server issues)
+        if response.status_code == 206:
+            raise NoTranscriptFound(video_id, TRANSCRIPT_LANGUAGES, [])
+            
+        if response.status_code == 429 or response.status_code >= 500:
+            response.raise_for_status()
+
+        # Fallback for generic HTTP status codes if they didn't return an error JSON
+        if response.status_code == 404:
+            raise NoTranscriptFound(video_id, TRANSCRIPT_LANGUAGES, [])
+        elif response.status_code == 400:
+            raise TranscriptsDisabled(video_id)
+            
+        response.raise_for_status()
+
+        # 4. Check if Supadata returned a jobId for asynchronous processing
+        if "jobId" in data:
+            job_id = data["jobId"]
+            progress(f"    Transcript deferred to job {job_id}. Polling for completion...")
+            data = poll_transcript_job(job_id, api_key)
+
+        content = data.get("content", [])
+
+        if isinstance(content, str):
+            segments = [content]
+        elif isinstance(content, list):
+            segments = [item.get("text", "") for item in content if isinstance(item, dict)]
+        else:
+            segments = []
+
+        if not segments:
+            raise NoTranscriptFound(video_id, TRANSCRIPT_LANGUAGES, [])
+
+        return format_transcript_text(segments)
+
+    except requests.RequestException as exc:
+        raise exc
+
+
+def poll_transcript_job(job_id: str, api_key: str, max_attempts: int = 40, interval_seconds: int = 5) -> dict[str, Any]:
+    """Poll the job endpoint until the status is 'completed' or fails."""
+    url = f"https://api.supadata.ai/v1/transcript/{job_id}"
+    headers = {
+        "x-api-key": api_key
+    }
+    for attempt in range(1, max_attempts + 1):
+        time.sleep(interval_seconds)
+        try:
+            res = requests.get(url, headers=headers, timeout=30)
+            if res.status_code == 429 or res.status_code >= 500:
+                res.raise_for_status()
+                
+            res_data = res.json()
+            status = res_data.get("status")
+            
+            if status == "completed":
+                return res_data
+            elif status == "failed":
+                error_msg = res_data.get('error', {}).get('message', 'Unknown error')
+                raise TranscriptDownloadError(f"Supadata job {job_id} failed: {error_msg}")
+            
+            progress(f"    Job status: {status}. Checking again in {interval_seconds}s... ({attempt}/{max_attempts})")
+        except requests.RequestException as exc:
+            raise exc
+
+    raise TranscriptDownloadError(f"Supadata job {job_id} timed out after {max_attempts * interval_seconds} seconds.")
 
 
 def format_transcript_text(segments: list[str]) -> str:

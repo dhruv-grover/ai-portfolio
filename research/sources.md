@@ -96,3 +96,27 @@ Connor Murray focuses on modern outbound sales for B2B SaaS, with an emphasis on
 **Annotation**
 
 John Barrows specializes in enterprise sales execution and modern prospecting for complex B2B buying environments. His content emphasizes practical sales methodologies, objection handling, account planning, discovery, and adapting outreach strategies to different buyer personas. The collected materials provide actionable frameworks for improving sales conversations, increasing conversion rates, and building predictable enterprise pipeline.
+
+## 6. Donald Kelly
+
+**Current Role:** Founder & CEO, The Sales Evangelist
+
+### Sources
+
+- **LinkedIn:** [Donald C Kelly](https://www.linkedin.com/in/donaldckelly/)
+- **YouTube:** [TheSalesEvangelistDK](https://www.youtube.com/@TheSalesEvangelistDK)
+- **Website:** [The Sales Evangelist](https://thesalesevangelist.com/)
+- **Podcast:** [The Sales Evangelist Podcast](https://thesalesevangelist.com/the-sales-evangelist-podcast/)
+
+
+
+### Dates of Collected Content
+
+- LinkedIn posts: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+- YouTube Videos: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+
+
+
+### Annotation
+
+Donald Kelly focuses on the consistent execution of outbound prospecting rather than one-off cold outreach tactics. His content emphasizes building daily prospecting habits, creating repeatable pipeline generation systems, leveraging LinkedIn alongside cold email and cold calling, and improving SDR performance through disciplined execution. The collected materials provide practical frameworks for maintaining prospecting consistency, overcoming outreach challenges, and developing scalable outbound habits that support long-term B2B sales growth.
