@@ -58,3 +58,21 @@ Armand Farrokh specializes in enterprise outbound sales, cold calling, discovery
 **Annotation**
 
 Morgan J. Ingram specializes in LinkedIn social selling, outbound prospecting, Sales Navigator workflows, and personalized outreach for B2B SaaS sales teams. The collected materials focus on pipeline generation, social selling strategies, personalized messaging, video prospecting, account research, and modern outbound execution.
+
+## 4. Connor Murray
+
+**Current Role:** Enterprise Account Executive, Datadog
+
+**Sources**
+
+- LinkedIn: [Connor Murray](https://www.linkedin.com/in/connor-murray-cm/)
+- YouTube: [Connor Murray](https://www.youtube.com/@Connor-Murray)
+
+**Dates of Collected Content**
+
+- LinkedIn posts: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+- YouTube Videos: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+
+**Annotation**
+
+Connor Murray focuses on modern outbound sales for B2B SaaS, with an emphasis on cold email, LinkedIn prospecting, account research, and AI-assisted prospecting workflows. His content demonstrates practical outbound playbooks, messaging frameworks, personalization techniques, and repeatable systems for generating qualified pipeline and booking meetings with enterprise buyers.
