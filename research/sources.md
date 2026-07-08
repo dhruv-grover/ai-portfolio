@@ -143,3 +143,26 @@ Donald Kelly focuses on the consistent execution of outbound prospecting rather 
 ### Annotation
 
 Michael Humblet focuses on helping B2B SaaS sales teams move beyond generic prospecting by improving how they position value throughout the buying journey. His content emphasizes sales messaging, stakeholder management, account-based selling, and creating commercial conversations that resonate with modern SaaS buyers. Rather than teaching outreach tactics in isolation, he explains how prospecting, discovery, and positioning work together to build predictable enterprise sales pipelines. The collected materials provide practical insights into value-driven outbound, buyer-centric messaging, and scalable SaaS sales execution.
+
+## 8. TK Kader
+
+**Current Role:** Managing Director, TK|Capital
+
+### Sources
+
+- **LinkedIn:** [TK Kader](https://www.linkedin.com/in/tkkader/)
+- **YouTube:** [TK Kader](https://www.youtube.com/@TKKader)
+- **Website:** [https://www.getunstoppable.com/](https://www.getunstoppable.com/)
+
+
+
+### Dates of Collected Content
+
+- LinkedIn posts: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+- YouTube Videos: 2025-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+
+
+
+### Annotation
+
+TK Kader approaches outbound from a founder and GTM leadership perspective rather than an individual sales rep's perspective. His content focuses on designing repeatable revenue engines by combining founder-led selling, AI-native workflows, outbound systems, and organizational execution. Rather than concentrating solely on prospecting techniques, he explains how sales teams, processes, and technology should work together to create scalable pipeline generation for B2B SaaS companies. The collected materials provide practical insights into modern GTM strategy, AI adoption, founder-led sales, and building predictable outbound growth.
