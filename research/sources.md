@@ -27,7 +27,7 @@ Jason Bay specializes in outbound prospecting and SDR workflows for B2B SaaS org
 
 **Sources**
 
-- LinkedIn: [Armand Farrokh](https://www.linkedin.com/in/armandfarrokh/)
+- LinkedIn: [Armand Farrokh](https://www.linkedin.com/in/armand-farrokh/)
 - YouTube: [30 Minutes to President's Club](https://www.youtube.com/@30MPC)
 - Website: [30 Minutes to President's Club](https://www.30mpc.com/)
 
@@ -39,3 +39,22 @@ Jason Bay specializes in outbound prospecting and SDR workflows for B2B SaaS org
 **Annotation**
 
 Armand Farrokh specializes in enterprise outbound sales, cold calling, discovery, negotiation, multithreading, and sales execution for B2B SaaS organizations. The collected materials focus on practical outbound frameworks, sales messaging, pipeline generation, negotiation strategies, and multi-threaded deal execution.
+
+## 3. Morgan J. Ingram
+
+**Current Role:** Founder & CEO, AMP Social
+
+**Sources**
+
+- LinkedIn: [Morgan J. Ingram](https://www.linkedin.com/in/morganjingramamp/)
+- YouTube: [Morgan J. Ingram](https://www.youtube.com/@MorganJIngram)
+- Podcast: [The SDR Chronicles](https://open.spotify.com/episode/0pGQArHvrIlKNLFH7lTDOR)
+
+**Dates of Collected Content**
+
+- LinkedIn posts: 2025-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+- YouTube Videos: 2025-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+
+**Annotation**
+
+Morgan J. Ingram specializes in LinkedIn social selling, outbound prospecting, Sales Navigator workflows, and personalized outreach for B2B SaaS sales teams. The collected materials focus on pipeline generation, social selling strategies, personalized messaging, video prospecting, account research, and modern outbound execution.
