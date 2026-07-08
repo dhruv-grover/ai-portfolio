@@ -20,3 +20,22 @@ This document lists the experts selected for the research on **Cold outreach pip
 
 **Annotation**
 Jason Bay specializes in outbound prospecting and SDR workflows for B2B SaaS organizations. The collected materials focus on cold email strategy, prospecting and pipeline generation.
+
+## 2. Armand Farrokh
+
+**Current Role:** VP of Sales, 30 Minutes to President's Club
+
+**Sources**
+
+- LinkedIn: [Armand Farrokh](https://www.linkedin.com/in/armandfarrokh/)
+- YouTube: [30 Minutes to President's Club](https://www.youtube.com/@30MPC)
+- Website: [30 Minutes to President's Club](https://www.30mpc.com/)
+
+**Dates of Collected Content**
+
+- LinkedIn posts: 2025-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+- YouTube Videos: 2025-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+
+**Annotation**
+
+Armand Farrokh specializes in enterprise outbound sales, cold calling, discovery, negotiation, multithreading, and sales execution for B2B SaaS organizations. The collected materials focus on practical outbound frameworks, sales messaging, pipeline generation, negotiation strategies, and multi-threaded deal execution.
