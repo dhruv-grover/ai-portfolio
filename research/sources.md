@@ -224,3 +224,26 @@ Taylor Haren specializes in outbound prospecting with a strong emphasis on cold 
 
 ---
 
+
+
+## 10. Alex Berman
+
+**Current Role:** Chairman, X27 | CEO, Galadon Gold
+
+### Sources
+
+- **LinkedIn:** [Alex Berman](https://www.linkedin.com/in/alexanderberman/)
+- **YouTube:** [Alex Berman](https://www.youtube.com/@AlexBerman)
+
+
+
+### Dates of Collected Content
+
+- LinkedIn Posts: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+- YouTube Videos: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+
+
+
+### Annotation
+
+Alex Berman's content is centered around building predictable outbound lead generation systems using cold email as the primary acquisition channel. Unlike creators who focus heavily on sales psychology or enterprise sales processes, Alex breaks outbound down into repeatable tactical components such as finding verified prospects, writing cold emails that consistently generate replies, improving deliverability, scaling outbound campaigns, and using AI to automate repetitive prospecting tasks. His content frequently covers email copywriting, personalization at scale, list building, inbox placement, follow-up sequences, and outbound infrastructure for agencies and B2B SaaS companies. Across both LinkedIn and YouTube, he emphasizes creating scalable outbound machines that generate qualified meetings while avoiding spammy outreach practices. The collected materials provide practical insights into modern cold email strategy, outbound automation, prospecting systems, and building repeatable pipeline generation engines for B2B SaaS businesses.
