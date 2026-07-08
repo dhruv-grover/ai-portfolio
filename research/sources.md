@@ -120,3 +120,26 @@ John Barrows specializes in enterprise sales execution and modern prospecting fo
 ### Annotation
 
 Donald Kelly focuses on the consistent execution of outbound prospecting rather than one-off cold outreach tactics. His content emphasizes building daily prospecting habits, creating repeatable pipeline generation systems, leveraging LinkedIn alongside cold email and cold calling, and improving SDR performance through disciplined execution. The collected materials provide practical frameworks for maintaining prospecting consistency, overcoming outreach challenges, and developing scalable outbound habits that support long-term B2B sales growth.
+
+## 7. Michael Humblet
+
+**Current Role:** CEO & Founder, Chaomatic
+
+### Sources
+
+- **LinkedIn:** [Michael Humblet](https://www.linkedin.com/in/michaelhumblet/)
+- **YouTube:** [Michael Humblet](https://www.youtube.com/@michaelhumblet)
+- **Website:** [https://michaelhumblet.com/](https://michaelhumblet.com/)
+
+
+
+### Dates of Collected Content
+
+- LinkedIn posts: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+- YouTube Videos: 2024-07-01 to 2026-07-06 *(yyyy/mm/dd)*
+
+
+
+### Annotation
+
+Michael Humblet focuses on helping B2B SaaS sales teams move beyond generic prospecting by improving how they position value throughout the buying journey. His content emphasizes sales messaging, stakeholder management, account-based selling, and creating commercial conversations that resonate with modern SaaS buyers. Rather than teaching outreach tactics in isolation, he explains how prospecting, discovery, and positioning work together to build predictable enterprise sales pipelines. The collected materials provide practical insights into value-driven outbound, buyer-centric messaging, and scalable SaaS sales execution.
