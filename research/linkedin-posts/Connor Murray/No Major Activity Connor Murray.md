@@ -1,0 +1,1 @@
+> Connor Murray's LinkedIn primarily speaks of his career progress and not much about our topic, hence nothing to post for the research project.

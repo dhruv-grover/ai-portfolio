@@ -1,0 +1,1 @@
+> Taylor Haren's LinkedIn primarily speaks of his career progress and success of his strategies without actually mentioning anything about it. It is more milestone oriented and not much about our topic, hence nothing to post for the research project
